@@ -6,7 +6,7 @@ from PIL import Image
 import time
 import math
 
-path = 'F:/images'
+path = 'images'
 
 class ChestXRay(Dataset):
     
