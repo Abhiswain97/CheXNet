@@ -4,11 +4,8 @@ import torch.nn as nn
 from torch.utils.data import DataLoader
 from Dataset import ChestXRay
 import torch.optim as optim
-#import matplotlib.pyplot as plt
 import time 
 import copy
-#from sklearn.metrics import multilabel_confusion_matrix, accuracy_score, roc_auc_score, classification_report
-import csv 
 import numpy as np
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 
