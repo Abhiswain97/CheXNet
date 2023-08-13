@@ -7,6 +7,4 @@ based on [this](https://github.com/arnoweng/CheXNet) implementation.
 
 You can run the complete notebook on Kaggle -> [CheXNet-PyTorch](https://www.kaggle.com/abhiswain/chexnet-pytorch)
 
-# Internship Certificate
-
-<image src="Internship Certificate-1.png"></image>
+### You can find the internship certificate [here](https://github.com/Abhiswain97/CheXNet/blob/master/Internship%20Certificate-1.png)
