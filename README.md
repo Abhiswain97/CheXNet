@@ -13,7 +13,7 @@ Batch size | Learning Rate | Epochs | Time
 -----------|---------------|--------|------
 64 | 0.01 | 20 | 2 hrs
 
-## Per Clas AUROC
+## Per Class AUROC
 
 Pathology | AUROC
 ----------|-------
