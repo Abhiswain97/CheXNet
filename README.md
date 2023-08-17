@@ -7,9 +7,13 @@ based on [this](https://github.com/arnoweng/CheXNet) implementation.
 
 You can run the complete notebook on Kaggle -> [CheXNet-PyTorch](https://www.kaggle.com/abhiswain/chexnet-pytorch)
 
+## Hyperparameters
+
 Batch size | Learning Rate | Epochs | Time
 -----------|---------------|--------|------
 64 | 0.01 | 20 | 2 hrs
+
+## Per Clas AUROC
 
 Pathology | AUROC
 ----------|-------
